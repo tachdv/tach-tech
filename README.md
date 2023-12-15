@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi, I'm Tach ! 
 
-<!--
-**tach-tech/tach-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- French student in high school
+- Low level in english 
 
-Here are some ideas to get you started:
+## My skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------
+
+- I have base of ruby 
+- I learn python 
+
+## My Roadmap 
+
+-----------------
+
+-> Ruby
+-> Python
+-> Javascript
+-> SQL
+-> PHP
+
+## My Wish
+
+-----------------
+
+I want to work in cybersecurity, in the offensive 🐱‍💻
+
+## How contact me ?
+
+----------------
+
+If you want contact me, you can add me in discord (discord: tachandtd);
+I don't have a professional email yet... to see 
+
+⚠️ I'M FRENCH ⚠️
+
