@@ -10,13 +10,9 @@
 
 ## My Roadmap 
 
--> Ruby
--> Python
--> Javascript
--> SQL
--> PHP
+-> HTML -> Javascript -> SQL -> PHP
 
--> C++ or C
+-> Ruby -> Python -> C++ or C
 
 ## My Wish
 
