@@ -15,8 +15,8 @@
 -> Javascript
 -> SQL
 -> PHP
---------
-C++ or C
+
+-> C++ or C
 
 ## My Wish
 
