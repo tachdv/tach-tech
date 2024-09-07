@@ -2,7 +2,7 @@
 
 I'm a young developper 
 
-- I'm currently learning Python and C.
+- I'm currently learning Rust.
 - I'm currently working for my future.
 - I'm want work in cybersecurity.
 
